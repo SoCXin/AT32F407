@@ -6,8 +6,9 @@
 
 ### [简介](https://github.com/sochub/STM32F429I/wiki)
 
+高性能嵌入式处理器，具有丰富的外设和较高的处理能力，广泛应用于各种控制场景和原型验证。
 
-#### power & system
+#### system
 
 * Cortex®-M4 CPU with FPU,frequency up to 180 MHz, MPU, 225 DMIPS/1.25 DMIPS/MHz (Dhrystone 2.1)
 * Up to 2 MB of Flash memory organized into two banks allowing read-while-write
@@ -24,13 +25,12 @@
 
 #### interface
 
-* LCD parallel interface: 8080/6800 modes (total width up to 4096 pixels, total height up to 2048 lines and pixel clock up to 83 MHz)
+* LCD parallel interface: 8080/6800 modes (width up to 4096 pixels,height up to 2048 lines and pixel clock up to 83 MHz)
 * 8- to 14-bit parallel camera interface up to 54 Mbytes/s
 * 3×12-bit, 2.4 MSPS ADC: up to 24 channels and 7.2 MSPS in triple interleaved mode
 * 2×12-bit D/A converters
 * DMA: 16-stream DMA controller with FIFOs and burst support
-* Up to 17 timers: up to twelve 16-bit and two 32-bit timers up to 180 MHz, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
-
+* Up to 17 timers: up to twelve 16-bit and two 32-bit timers up to 180 MHz, each with up to 4 IC/OC/PWM
 * Up to 168 I/O ports with interrupt capability
 * Up to 164 fast I/Os up to 90 MHz
 * Up to 166 5 V-tolerant I/Os
