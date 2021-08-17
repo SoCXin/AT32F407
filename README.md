@@ -16,7 +16,7 @@
 * 4 x USART + 4 x UART
 * 2 x CAN 2.0B
 * Crystal-less USB2.0全速接口
-* 10/100M以太网MAC：具有专用DMA和4 K字节SRAM，支持IEEE 1588硬件，MII/RMII接口
+* 10/100M以太网MAC：专用DMA和4K SRAM，支持IEEE 1588，MII/RMII接口
 
 ### [资源收录](https://github.com/SoCXin/AT32F407)
 
@@ -24,15 +24,8 @@
 * [参考文档](docs/)
 * [参考工程](project/)
 
-
 ### [选型建议](https://github.com/SoCXin)
 
-[AT32F407](https://github.com/SoCXin/AT32F407)
-
-#### 封装规格
-
-* LQFP100 14 x 14 mm
-* LQFP64 10 x 10 mm
-
+[AT32F407](https://github.com/SoCXin/AT32F407) 以太网口和多串口配置十分适合网关类通信产品开发，对标产品为STM32F107/GD32F107系列。
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
