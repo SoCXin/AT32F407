@@ -1,22 +1,38 @@
-﻿# [M32W062](https://github.com/SoCXin/M32W062)
+﻿# [AT32F407](https://github.com/SoCXin/AT32F407)
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mm32.com.cn/)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
-#### [Level](https://github.com/SoCXin/Level)：48MHz
+* [arterytek](https://www.arterytek.com/cn/index.jsp): [Cortex-M4](https://github.com/SoCXin/Cortex)
+* [L5R4](https://github.com/SoCXin/Level): 240 MHz x 1.25 DMIPS/MHz
 
-## [描述](https://github.com/SoCXin/M32W062/wiki)
+## [简介](https://github.com/SoCXin/AT32F407/wiki)
 
-[M32W062](https://github.com/SoCXin/M32W062)
+[![sites](docs/AT32F407.png)](https://www.arterytek.com/cn/product/AT32F407.jsp?t=1629178929761#Feature)
 
-### [资源收录](https://github.com/SoCXin/M32W062)
+### 关键特性
 
-* [文档](docs/)
-* [资源](src/)
+* Cortex®-M4主频最高 240 MHz
+* 高达 16MB 外部 SPI Flash memory 扩展
+* 4 x USART + 4 x UART
+* 2 x CAN 2.0B
+* Crystal-less USB2.0全速接口
+* 10/100M以太网MAC：具有专用DMA和4 K字节SRAM，支持IEEE 1588硬件，MII/RMII接口
+
+### [资源收录](https://github.com/SoCXin/AT32F407)
+
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
+
 
 ### [选型建议](https://github.com/SoCXin)
 
-[M32W062](https://github.com/SoCXin/M32W062) 定位无线通信SoC
+[AT32F407](https://github.com/SoCXin/AT32F407)
 
-###  [SoC芯平台](http://www.SoC.Xin)
+#### 封装规格
+
+* LQFP100 14 x 14 mm
+* LQFP64 10 x 10 mm
+
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

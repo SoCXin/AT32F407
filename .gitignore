@@ -1,0 +1,17 @@
+*.pyc
+.pio/
+.vscode/
+Objects
+Listings
+readme.txt
+*.uvguix*
+*.hex
+*.bin
+*.scvd
+*.dep
+*.log
+*.ewt
+*.ewd
+settings
+Debug
+说明.txt
